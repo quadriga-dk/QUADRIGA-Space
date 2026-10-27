@@ -1,0 +1,226 @@
+{
+  "@context": {
+    "schema": "http://schema.org/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "lrmi": "http://purl.org/dcx/lrmi-terms/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "@vocab": "http://schema.org/"
+  },
+  "@type": [
+    "Book",
+    "LearningResource"
+  ],
+  "name": "QUADRIGA-OER-Template. QUADRIGA Open Educational Resources: Template",
+  "description": "Dieses interaktive Lehrbuch führt in die Erstellung von Open Educational Resources (OER) nach den Empfehlungen und Vorgaben des Datenkompetenzzentrumgs QUADRIGA als <a href=\"https://jupyterbook.org\">Jupyter Book</a> ein. Diese Empfehlungen und Vorgaben sind einerseits inhaltlicher und didaktischer andererseits technischer Natur. Diese OER richtet sich vorrangig an OER-Erstellende und kann als Startpunkt (Template) für die Erstellung eigener OER genutzt werden. Einzelne (Unter-)Kapitel bieten zudem Erläuterungen zu Funktionalitäten für Lernende.",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "10.5281/zenodo.14970672",
+    "url": "https://doi.org/10.5281/zenodo.14970672"
+  },
+  "version": "0.64.1",
+  "schemaVersion": "1.0.0",
+  "url": "https://quadriga-dk.github.io/Book_Template/",
+  "workExample": {
+    "@type": "SoftwareSourceCode",
+    "name": "Source Code Repository",
+    "codeRepository": "https://github.com/quadriga-dk/Book_Template"
+  },
+  "datePublished": "2024-05-06",
+  "dateModified": "2026-05-11",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Hannes",
+      "familyName": "Schnaitter",
+      "name": "Hannes Schnaitter",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0000-0002-1602-6032",
+        "url": "https://orcid.org/0000-0002-1602-6032"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Evgenia",
+      "familyName": "Samoilova",
+      "name": "Evgenia Samoilova",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0000-0003-3858-901X",
+        "url": "https://orcid.org/0000-0003-3858-901X"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universität Potsdam"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Lamia",
+      "familyName": "Islam",
+      "name": "Lamia Islam",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universität Potsdam"
+      }
+    }
+  ],
+  "contributor": [
+    {
+      "@type": "Person",
+      "givenName": "Melanie",
+      "familyName": "Seltmann",
+      "name": "Melanie Seltmann",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0000-0002-7588-4395",
+        "url": "https://orcid.org/0000-0002-7588-4395"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Paul",
+      "familyName": "Walter",
+      "name": "Paul Walter",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0000-0002-9236-3268",
+        "url": "https://orcid.org/0000-0002-9236-3268"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Fachhochschule Potsdam"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Yue",
+      "familyName": "Zhang",
+      "name": "Yue Zhang",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0009-0007-6432-1259",
+        "url": "https://orcid.org/0009-0007-6432-1259"
+      }
+    }
+  ],
+  "inLanguage": "de",
+  "keywords": [
+    "Open Educational Resources",
+    "Offene Bildungsressource",
+    "Jupyter Book",
+    "Data Literacy",
+    "Datenkompetenz",
+    "open-educational-resources"
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Open Educational Resources"
+    },
+    {
+      "@type": "Thing",
+      "name": "Offene Bildungsressource"
+    },
+    {
+      "@type": "Thing",
+      "name": "Jupyter Book"
+    },
+    {
+      "@type": "Thing",
+      "name": "Data Literacy"
+    },
+    {
+      "@type": "Thing",
+      "name": "Datenkompetenz"
+    },
+    {
+      "@type": "Thing",
+      "name": "open-educational-resources"
+    },
+    {
+      "@type": "Thing",
+      "name": "übergreifend"
+    },
+    {
+      "@type": "Thing",
+      "name": "übergreifend"
+    }
+  ],
+  "audience": [
+    {
+      "@type": "Audience",
+      "audienceType": "Forschende (PostDoc)"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Forschende (Projektleitung)"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Promovierende"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Hochschullehrende"
+    }
+  ],
+  "timeRequired": "PT16H15M",
+  "license": [
+    {
+      "@type": "CreativeWork",
+      "name": "Source Code",
+      "license": "https://opensource.org/licenses/AGPL-3.0"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Content",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "LearningResource",
+      "name": "Inhaltskapitel",
+      "description": "Ein Kapitel mit Inhalt(sbeispielen).",
+      "url": "https://quadriga-dk.github.io/Book_Template/inhaltskapitel/einleitung.html",
+      "timeRequired": "PT1H",
+      "teaches": "Sie kennen die Bestandteile des Templates und können es für Ihre Bedürfnisse nutzen.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Kennen und verstehen der Bestandteile des Templates.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 2 Verstehen | Data Flow: übergreifend"
+        },
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Template kann angewandt werden.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: Orientierungswissen | Bloom's: 3 Anwenden | Data Flow: übergreifend"
+        }
+      ]
+    }
+  ],
+  "dcterms:tableOfContents": "- Einstieg\n- Inhaltskapitel\n- Reflexion und Resümee\n- Epilog",
+  "funding": "Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum QUADRIGA erstellt.\n\nFörderkennzeichen: 16DKZ2034",
+  "learningResourceType": "Jupyter Book",
+  "lrmi:learningResourceType": "Jupyter Book",
+  "dcterms:type": "Jupyter Book",
+  "dc:type": "Jupyter Book"
+}
