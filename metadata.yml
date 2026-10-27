@@ -35,13 +35,17 @@ description: Dieses interaktive Lehrbuch führt in die Erstellung von Open Educa
   Natur. Diese OER richtet sich vorrangig an OER-Erstellende und kann als Startpunkt
   (Template) für die Erstellung eigener OER genutzt werden. Einzelne (Unter-)Kapitel
   bieten zudem Erläuterungen zu Funktionalitäten für Lernende.
-table-of-contents: '- Einstieg
+table-of-contents: '- Überblick
 
-  - Inhaltskapitel
+  - Architektur
 
-  - Reflexion und Resümee
+  - Komponenten
 
-  - Epilog'
+  - Administration
+
+  - Betrieb und Ressourcen
+
+  - Verstetigung'
 discipline:
 - übergreifend
 research-object-type:

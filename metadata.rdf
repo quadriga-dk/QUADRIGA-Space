@@ -12,10 +12,12 @@
   </schema:AlignmentObject>
   <schema:Book rdf:about="https://quadriga-dk.github.io/Book_Template/">
     <dc:type>Jupyter Book</dc:type>
-    <dcterms:tableOfContents>- Einstieg
-- Inhaltskapitel
-- Reflexion und Resümee
-- Epilog</dcterms:tableOfContents>
+    <dcterms:tableOfContents>- Überblick
+- Architektur
+- Komponenten
+- Administration
+- Betrieb und Ressourcen
+- Verstetigung</dcterms:tableOfContents>
     <dcterms:type>Jupyter Book</dcterms:type>
     <lrmi:learningResourceType>Jupyter Book</lrmi:learningResourceType>
     <schema:about>
