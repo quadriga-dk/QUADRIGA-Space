@@ -1,20 +1,17 @@
-# QUADRIGA-OER-Template
+# QUADRIGA Space
 
 ````{margin}
 ```{admonition} Fragen oder Feedback
 :class: frage-feedback
 
-<a href="https://github.com/quadriga-dk/Book_Template/issues/new?assignees=&labels=question&projects=&template=frage.yml" class="external-link" target="_blank">
+<a href="https://github.com/quadriga-dk/QUADRIGA-Space/issues/new?assignees=&labels=question&projects=&template=frage.yml" class="external-link" target="_blank">
     Stellen Sie eine Frage
 </a> <br>
-<a href="https://github.com/quadriga-dk/Book_Template/issues/new?assignees=&labels=feedback&projects=&template=feedback.yml" class="external-link" target="_blank">
+<a href="https://github.com/quadriga-dk/QUADRIGA-Space/issues/new?assignees=&labels=feedback&projects=&template=feedback.yml" class="external-link" target="_blank">
     Geben Sie uns Feedback
 </a>
 
-Mit Ihren Rückmeldungen können wir unser Template gezielt an Ihre Bedürfnisse anpassen.
-
-
-
+Mit Ihren Rückmeldungen können wir den QUADRIGA Space gezielt weiterentwickeln.
 ```
 ````
 
@@ -29,52 +26,38 @@ Schnaitter, H., Samoilova, E. & Islam, L. (2024). _QUADRIGA-OER-Template. QUADRI
 ````
 `````
 
-Diese Vorlage dient der Erstellung von Open Educational Resources (OER) im Rahmen des <a href="https://www.quadriga-dk.de/" class="external-link" target="_blank">QUADRIGA-Projekts</a>.
+Der **QUADRIGA Space** bündelt die technischen Komponenten und Abläufe für
+die Erstellung, Veröffentlichung und den Betrieb von QUADRIGA-Fallstudien.
 
-Zur einfachen Erstellung und langfristigen, technikunabhängigen Nutzbarkeit werden QUADRIGA-OERs mit Markdown-Dateien und Jupyter-Notebooks erstellt. Die konkrete Transformation dieser Inhalte in die hier zu sehende Darstellung erfolgt dabei per <a href="https://jupyterbook.org" class="external-link" target="_blank">Jupyter Book</a> {cite}`executable_books_community_2021_2561065`.
-
-Weitere Hinweise zu Empfehlungen und Vorgaben zur OER-Erstellung des Datenkompetenzzentrums QUADRIGA finden Sie im <a href="https://quadriga-dk.github.io/QUADRIGA-OER-Manual/" target="_blank">QUADRIGA-OER-Manual</a>
-
-```{figure} /assets/intro/oer-creation-process.png
----
-align: center
-width: 70%
----
-Erstellung von QUADRIGA-OERs aus der Jupyter-Book-Vorlage
+```{image} https://github.com/user-attachments/assets/d49501b5-2843-4b5d-9883-fc1ce965a399
+:alt: QUADRIGA Space
+:align: center
 ```
+
+<span style="color: red;">Platzhalter: Hier folgt eine ausführlichere Einführung
+in den QUADRIGA Space.</span>
 
 ## Zielgruppe
 
-Die Fallstudie richtet sich an Personen, die ihre Fallstudien unter Verwendung der QUADRIGA-Vorlage erstellen möchten. Einzelne Kapitel können jedoch auch für Lernende von Relevanz sein, beispielsweise hinsichtlich der lokalen Nutzung von Jupyter Books auf eigenen Geräten oder der Anwendung von Google Colab.
+Die Dokumentation richtet sich an alle, die am Aufbau, an der Administration
+und am langfristigen Betrieb des QUADRIGA Space beteiligt sind. Dazu gehören
+insbesondere die beteiligten Einrichtungen, Administrator:innen,
+Entwickler:innen und Verantwortlichen für die Veröffentlichung von
+Fallstudien.
 
-## Struktur der Fallstudie
+<span style="color: red;">Platzhalter: Die Zielgruppen und ihre konkreten
+Bedarfe werden hier noch ausführlicher beschrieben.</span>
 
-Im QUADRIGA-Projekt entwickeln wir Fallstudien, die auf datengetriebenen Forschungsaktivitäten basieren und spezifische Forschungsfragen zusammen mit den dazugehörigen Datensätzen und Methoden abbilden. Ihre Fallstudie sollte in empirische Schritte unterteilt werden, die:
+## Struktur der Dokumentation
 
-- dem Datenlebenszyklus folgen,
-- den strukturellen Rahmen für Lehrmaterialien bilden,
-- den einzelnen Kapiteln im interaktives Lehrbuch entsprechen.
+Die Dokumentation ist in sechs Kapitel gegliedert:
 
-Diese Schritte sollten in diesem Abschnitt visualisiert und kurz beschrieben werden.
+- **Überblick** – Zweck, Zielgruppen und Abgrenzung zu den Manuals.
+- **Architektur** – Komponenten, Schnittstellen und Datenflüsse.
+- **Komponenten** – GitHub, JupyterHub, Zenodo und OER-Repositorien.
+- **Administration** – Zugänge, Rechte, Zuständigkeiten und Abläufe.
+- **Betrieb und Ressourcen** – Ressourcenbedarf, Kosten, Wartung und Monitoring.
+- **Verstetigung** – Langfristiger Betrieb und Übergabe.
 
-```{figure} ./assets/intro/Aufbau_der_OER.svg
----
-align: left
-width: 100%
----
-Flussdiagramm der QUADRIGA-Vorlage, die sich aus sechs Schritten zusammensetzt.
-```
-
-Nach den QUADRIGA Empfehlungen und Vorgaben für OER durchlaufen Fallstudien mindestens diese drei Schritte.
-
-- Im **1. Schritt** führen wir in die OER ein, indem wir die Lernziele definieren und die technischen Voraussetzungen klären (siehe Kapitel {ref}`Einstieg<lernziele>`).
-- Im **2. Schritt** und den nachfolgenden Schritten wird de Inhalt der Fallstudie präsentiert (siehe Kapitel {ref}`Inhaltskapitel<inhaltskapitel:einleitung>`).
-- Im **letzten Schritt** schließt die OER inhaltlich mit einem Abschlussassessment ab, fassf die wichtigsten Punkte zusammen und gibt ggf. weiterführende Hinweise (siehe Kapitel {ref}`Reflexion und Resümee<reflexion>`).
-
-Die OER wird durch den Abschluss komplettiert, das Raum für Fragen und Feedback bietet, das Literaturverzeichnis enthält, die Autor:innen vorstellt sowie Informationen zu QUADRIGA und das Impressum bereitstellt (siehe Kapitel {ref}`Abschluss<fragen_feedback>`).
-
-**Literatur**
-
-```{bibliography}
-:filter: docname in docnames
-```
+<span style="color: red;">Platzhalter: Die Kapitelbeschreibungen und Verweise
+werden ergänzt, sobald die Inhalte ausgearbeitet sind.</span>
