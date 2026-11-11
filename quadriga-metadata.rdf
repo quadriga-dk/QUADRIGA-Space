@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:lrmi="http://purl.org/dcx/lrmi-terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:schema="http://schema.org/">
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_0_objective_0">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: nicht anwendbar</schema:targetDescription>
+    <schema:targetName>Zweck und Zielgruppen des QUADRIGA Space benennen und von den Manuals abgrenzen.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_1_objective_0">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: nicht anwendbar</schema:targetDescription>
+    <schema:targetName>Architektur und Zusammenspiel der Komponenten beschreiben.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_2_objective_0">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: nicht anwendbar</schema:targetDescription>
+    <schema:targetName>Eingesetzte Komponenten und ihre Konfiguration einordnen.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_3_objective_0">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: nicht anwendbar | Bloom's: 3 Anwenden | Data Flow: nicht anwendbar</schema:targetDescription>
+    <schema:targetName>Typische Administrationsabläufe durchführen.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_4_objective_0">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: nicht anwendbar | Bloom's: 4 Analysieren | Data Flow: nicht anwendbar</schema:targetDescription>
+    <schema:targetName>Ressourcenbedarf und Betriebsaufgaben einschätzen.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_5_objective_0">
+    <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
+    <schema:targetDescription>Competency: nicht anwendbar | Bloom's: 5 Bewerten | Data Flow: nicht anwendbar</schema:targetDescription>
+    <schema:targetName>Optionen für langfristigen Betrieb und Übergabe bewerten.</schema:targetName>
+  </schema:AlignmentObject>
+  <schema:Book rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/">
+    <dc:type>Jupyter Book</dc:type>
+    <dcterms:tableOfContents>- Überblick
+- Architektur
+- Komponenten
+- Administration
+- Betrieb und Ressourcen
+- Verstetigung</dcterms:tableOfContents>
+    <dcterms:type>Jupyter Book</dcterms:type>
+    <lrmi:learningResourceType>Jupyter Book</lrmi:learningResourceType>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#keyword_0">
+        <schema:name>QUADRIGA Space</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#keyword_1">
+        <schema:name>Infrastruktur</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#keyword_2">
+        <schema:name>JupyterHub</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#keyword_3">
+        <schema:name>Open Educational Resources</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#keyword_4">
+        <schema:name>Betrieb</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#discipline_0">
+        <schema:name>übergreifend</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:about>
+      <schema:Thing rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#research_object_0">
+        <schema:name>übergreifend</schema:name>
+      </schema:Thing>
+    </schema:about>
+    <schema:audience>
+      <schema:Audience rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#audience_0">
+        <schema:audienceType>Forschende (PostDoc)</schema:audienceType>
+      </schema:Audience>
+    </schema:audience>
+    <schema:audience>
+      <schema:Audience rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#audience_1">
+        <schema:audienceType>Forschende (Projektleitung)</schema:audienceType>
+      </schema:Audience>
+    </schema:audience>
+    <schema:audience>
+      <schema:Audience rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#audience_2">
+        <schema:audienceType>Promovierende</schema:audienceType>
+      </schema:Audience>
+    </schema:audience>
+    <schema:audience>
+      <schema:Audience rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#audience_3">
+        <schema:audienceType>Hochschullehrende</schema:audienceType>
+      </schema:Audience>
+    </schema:audience>
+    <schema:author>
+      <schema:Person rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#author_0">
+        <schema:affiliation rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/#author_0_org" />
+        <schema:familyName>Islam</schema:familyName>
+        <schema:givenName>Lamia</schema:givenName>
+        <schema:name>Lamia Islam</schema:name>
+      </schema:Person>
+    </schema:author>
+    <schema:dateModified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-11-11</schema:dateModified>
+    <schema:datePublished rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-11-11</schema:datePublished>
+    <schema:description>Dieses Buch dokumentiert die technische Infrastruktur des QUADRIGA Space: Architektur und Zusammenspiel der Komponenten, Administration und Betrieb sowie Fragen der Verstetigung. Es richtet sich an Betreiber:innen und Administrator:innen der QUADRIGA-Infrastruktur.</schema:description>
+    <schema:funding>Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum QUADRIGA erstellt.
+
+Förderkennzeichen: 16DKZ2034</schema:funding>
+    <schema:hasPart>
+      <schema:LearningResource rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_0">
+        <schema:description>Zweck, Zielgruppen, Abgrenzung zu den Manuals.</schema:description>
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_0_objective_0" />
+        <schema:name>Überblick</schema:name>
+        <schema:teaches>Sie können Zweck und Zielgruppen des QUADRIGA Space benennen und ihn von den Manuals abgrenzen.</schema:teaches>
+        <schema:timeRequired>PT15M</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/01-ueberblick.html" />
+      </schema:LearningResource>
+    </schema:hasPart>
+    <schema:hasPart>
+      <schema:LearningResource rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_1">
+        <schema:description>Komponenten und ihr Zusammenspiel, Schnittstellen zum Navigator, Datenflüsse.</schema:description>
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_1_objective_0" />
+        <schema:name>Architektur</schema:name>
+        <schema:teaches>Sie können die Architektur und das Zusammenspiel der Komponenten des QUADRIGA Space beschreiben.</schema:teaches>
+        <schema:timeRequired>PT15M</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/02-architektur.html" />
+      </schema:LearningResource>
+    </schema:hasPart>
+    <schema:hasPart>
+      <schema:LearningResource rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_2">
+        <schema:description>GitHub, JupyterHub, Zenodo, OER-Repositorien: Funktion, Konfiguration, Abhängigkeiten.</schema:description>
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_2_objective_0" />
+        <schema:name>Komponenten</schema:name>
+        <schema:teaches>Sie können die eingesetzten Komponenten und ihre Konfiguration einordnen.</schema:teaches>
+        <schema:timeRequired>PT15M</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/03-komponenten.html" />
+      </schema:LearningResource>
+    </schema:hasPart>
+    <schema:hasPart>
+      <schema:LearningResource rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_3">
+        <schema:description>Zugänge und Rechte, Zuständigkeiten, Abläufe (z. B. neue Fallstudie veröffentlichen, Kurs auf dem JupyterHub einrichten).</schema:description>
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_3_objective_0" />
+        <schema:name>Administration</schema:name>
+        <schema:teaches>Sie können typische Administrationsabläufe im QUADRIGA Space durchführen.</schema:teaches>
+        <schema:timeRequired>PT15M</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/04-administration.html" />
+      </schema:LearningResource>
+    </schema:hasPart>
+    <schema:hasPart>
+      <schema:LearningResource rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_4">
+        <schema:description>Ressourcenbedarf, Kosten, Wartung, Monitoring, Vorgehen bei Störungen.</schema:description>
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_4_objective_0" />
+        <schema:name>Betrieb und Ressourcen</schema:name>
+        <schema:teaches>Sie können Ressourcenbedarf und Betriebsaufgaben des QUADRIGA Space einschätzen.</schema:teaches>
+        <schema:timeRequired>PT15M</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/05-betrieb-und-ressourcen.html" />
+      </schema:LearningResource>
+    </schema:hasPart>
+    <schema:hasPart>
+      <schema:LearningResource rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_5">
+        <schema:description>Langfristiger Betrieb (Fraunhofer FOKUS, Uni Potsdam, NFDI), Übergabe.</schema:description>
+        <schema:educationalAlignment rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/#chapter_5_objective_0" />
+        <schema:name>Verstetigung</schema:name>
+        <schema:teaches>Sie können Optionen für den langfristigen Betrieb und die Übergabe des QUADRIGA Space bewerten.</schema:teaches>
+        <schema:timeRequired>PT15M</schema:timeRequired>
+        <schema:url rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/06-verstetigung.html" />
+      </schema:LearningResource>
+    </schema:hasPart>
+    <schema:inLanguage>de</schema:inLanguage>
+    <schema:keywords>Betrieb</schema:keywords>
+    <schema:keywords>Infrastruktur</schema:keywords>
+    <schema:keywords>JupyterHub</schema:keywords>
+    <schema:keywords>Open Educational Resources</schema:keywords>
+    <schema:keywords>QUADRIGA Space</schema:keywords>
+    <schema:learningResourceType>Jupyter Book</schema:learningResourceType>
+    <schema:license>
+      <schema:CreativeWork rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#license_0">
+        <schema:license rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/" />
+        <schema:name>Content</schema:name>
+      </schema:CreativeWork>
+    </schema:license>
+    <schema:license>
+      <schema:CreativeWork rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#license_1">
+        <schema:license rdf:resource="https://opensource.org/licenses/AGPL-3.0" />
+        <schema:name>Source Code</schema:name>
+      </schema:CreativeWork>
+    </schema:license>
+    <schema:name>QUADRIGA Space: Infrastruktur, Betrieb und Verstetigung</schema:name>
+    <schema:schemaVersion>2.0.0</schema:schemaVersion>
+    <schema:timeRequired>PT2H</schema:timeRequired>
+    <schema:url rdf:resource="https://quadriga-dk.github.io/QUADRIGA-Space/" />
+    <schema:version>0.1.0</schema:version>
+    <schema:workExample>
+      <schema:SoftwareSourceCode rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#repository">
+        <schema:codeRepository rdf:resource="https://github.com/quadriga-dk/QUADRIGA-Space" />
+        <schema:name>Source Code Repository</schema:name>
+      </schema:SoftwareSourceCode>
+    </schema:workExample>
+    <rdf:type rdf:resource="http://schema.org/LearningResource" />
+  </schema:Book>
+  <schema:Organization rdf:about="https://quadriga-dk.github.io/QUADRIGA-Space/#author_0_org">
+    <schema:name>Universität Potsdam</schema:name>
+  </schema:Organization>
+</rdf:RDF>
