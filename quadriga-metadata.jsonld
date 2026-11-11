@@ -1,0 +1,251 @@
+{
+  "@context": {
+    "schema": "http://schema.org/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "lrmi": "http://purl.org/dcx/lrmi-terms/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "@vocab": "http://schema.org/"
+  },
+  "@type": [
+    "Book",
+    "LearningResource"
+  ],
+  "name": "QUADRIGA Space: Infrastruktur, Betrieb und Verstetigung",
+  "description": "Dieses Buch dokumentiert die technische Infrastruktur des QUADRIGA Space: Architektur und Zusammenspiel der Komponenten, Administration und Betrieb sowie Fragen der Verstetigung. Es richtet sich an Betreiber:innen und Administrator:innen der QUADRIGA-Infrastruktur.",
+  "version": "0.1.0",
+  "schemaVersion": "2.0.0",
+  "url": "https://quadriga-dk.github.io/QUADRIGA-Space/",
+  "workExample": {
+    "@type": "SoftwareSourceCode",
+    "name": "Source Code Repository",
+    "codeRepository": "https://github.com/quadriga-dk/QUADRIGA-Space"
+  },
+  "datePublished": "2026-11-11",
+  "dateModified": "2026-11-11",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Lamia",
+      "familyName": "Islam",
+      "name": "Lamia Islam",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0009-0001-1879-9880",
+        "url": "https://orcid.org/0009-0001-1879-9880"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universität Potsdam"
+      }
+    }
+  ],
+  "contributor": [
+    {
+      "@type": "Person",
+      "givenName": "Hannes",
+      "familyName": "Schnaitter",
+      "name": "Hannes Schnaitter",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0000-0002-1602-6032",
+        "url": "https://orcid.org/0000-0002-1602-6032"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Evgenia",
+      "familyName": "Samoilova",
+      "name": "Evgenia Samoilova",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0000-0003-3858-901X",
+        "url": "https://orcid.org/0000-0003-3858-901X"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universität Potsdam"
+      }
+    }
+  ],
+  "inLanguage": "de",
+  "keywords": [
+    "QUADRIGA Space",
+    "Infrastruktur",
+    "JupyterHub",
+    "Open Educational Resources",
+    "Betrieb"
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "QUADRIGA Space"
+    },
+    {
+      "@type": "Thing",
+      "name": "Infrastruktur"
+    },
+    {
+      "@type": "Thing",
+      "name": "JupyterHub"
+    },
+    {
+      "@type": "Thing",
+      "name": "Open Educational Resources"
+    },
+    {
+      "@type": "Thing",
+      "name": "Betrieb"
+    },
+    {
+      "@type": "Thing",
+      "name": "übergreifend"
+    },
+    {
+      "@type": "Thing",
+      "name": "übergreifend"
+    }
+  ],
+  "audience": [
+    {
+      "@type": "Audience",
+      "audienceType": "Forschende (PostDoc)"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Forschende (Projektleitung)"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Promovierende"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Hochschullehrende"
+    }
+  ],
+  "timeRequired": "PT2H",
+  "license": [
+    {
+      "@type": "CreativeWork",
+      "name": "Content",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Source Code",
+      "license": "https://opensource.org/licenses/AGPL-3.0"
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "LearningResource",
+      "name": "Überblick",
+      "description": "Zweck, Zielgruppen, Abgrenzung zu den Manuals.",
+      "url": "https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/01-ueberblick.html",
+      "timeRequired": "PT15M",
+      "teaches": "Sie können Zweck und Zielgruppen des QUADRIGA Space benennen und ihn von den Manuals abgrenzen.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Zweck und Zielgruppen des QUADRIGA Space benennen und von den Manuals abgrenzen.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: nicht anwendbar"
+        }
+      ]
+    },
+    {
+      "@type": "LearningResource",
+      "name": "Architektur",
+      "description": "Komponenten und ihr Zusammenspiel, Schnittstellen zum Navigator, Datenflüsse.",
+      "url": "https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/02-architektur.html",
+      "timeRequired": "PT15M",
+      "teaches": "Sie können die Architektur und das Zusammenspiel der Komponenten des QUADRIGA Space beschreiben.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Architektur und Zusammenspiel der Komponenten beschreiben.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: nicht anwendbar"
+        }
+      ]
+    },
+    {
+      "@type": "LearningResource",
+      "name": "Komponenten",
+      "description": "GitHub, JupyterHub, Zenodo, OER-Repositorien: Funktion, Konfiguration, Abhängigkeiten.",
+      "url": "https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/03-komponenten.html",
+      "timeRequired": "PT15M",
+      "teaches": "Sie können die eingesetzten Komponenten und ihre Konfiguration einordnen.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Eingesetzte Komponenten und ihre Konfiguration einordnen.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: nicht anwendbar"
+        }
+      ]
+    },
+    {
+      "@type": "LearningResource",
+      "name": "Administration",
+      "description": "Zugänge und Rechte, Zuständigkeiten, Abläufe (z. B. neue Fallstudie veröffentlichen, Kurs auf dem JupyterHub einrichten).",
+      "url": "https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/04-administration.html",
+      "timeRequired": "PT15M",
+      "teaches": "Sie können typische Administrationsabläufe im QUADRIGA Space durchführen.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Typische Administrationsabläufe durchführen.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: nicht anwendbar | Bloom's: 3 Anwenden | Data Flow: nicht anwendbar"
+        }
+      ]
+    },
+    {
+      "@type": "LearningResource",
+      "name": "Betrieb und Ressourcen",
+      "description": "Ressourcenbedarf, Kosten, Wartung, Monitoring, Vorgehen bei Störungen.",
+      "url": "https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/05-betrieb-und-ressourcen.html",
+      "timeRequired": "PT15M",
+      "teaches": "Sie können Ressourcenbedarf und Betriebsaufgaben des QUADRIGA Space einschätzen.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Ressourcenbedarf und Betriebsaufgaben einschätzen.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: nicht anwendbar | Bloom's: 4 Analysieren | Data Flow: nicht anwendbar"
+        }
+      ]
+    },
+    {
+      "@type": "LearningResource",
+      "name": "Verstetigung",
+      "description": "Langfristiger Betrieb (Fraunhofer FOKUS, Uni Potsdam, NFDI), Übergabe.",
+      "url": "https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/06-verstetigung.html",
+      "timeRequired": "PT15M",
+      "teaches": "Sie können Optionen für den langfristigen Betrieb und die Übergabe des QUADRIGA Space bewerten.",
+      "educationalAlignment": [
+        {
+          "@type": "AlignmentObject",
+          "targetName": "Optionen für langfristigen Betrieb und Übergabe bewerten.",
+          "educationalFramework": "QUADRIGA Competency Framework",
+          "targetDescription": "Competency: nicht anwendbar | Bloom's: 5 Bewerten | Data Flow: nicht anwendbar"
+        }
+      ]
+    }
+  ],
+  "dcterms:tableOfContents": "- Überblick\n- Architektur\n- Komponenten\n- Administration\n- Betrieb und Ressourcen\n- Verstetigung",
+  "funding": "Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum QUADRIGA erstellt.\n\nFörderkennzeichen: 16DKZ2034",
+  "learningResourceType": "Jupyter Book",
+  "lrmi:learningResourceType": "Jupyter Book",
+  "dcterms:type": "Jupyter Book",
+  "dc:type": "Jupyter Book"
+}

@@ -1,12 +1,7 @@
-# QUADRIGA OERs: erstellen und gestalten mit Jupyter Book – QUADRIGA Open Educational Resources: Template
+# QUADRIGA Space: Infrastruktur, Betrieb und Verstetigung
 
-[![DOI](https://zenodo.org/badge/796588109.svg)](https://doi.org/10.5281/zenodo.14970672)
+Launch the latest version in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quadriga-dk/QUADRIGA-Space/main)
 
-Launch the latest version in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quadriga-dk/Book_Template/main)
+Dieses Repositorium dokumentiert die technische Infrastruktur des <a href="https://www.quadriga-dk.de" class="external-link" target="_blank">QUADRIGA</a> Space: Architektur und Zusammenspiel der Komponenten, Administration und Betrieb sowie Fragen der Verstetigung. Das Buch wird mit <a href="https://jupyterbook.org" class="external-link" target="_blank">Jupyter Book</a> erstellt.
 
-Dieses Repositorium dient als Vorlage für <a href="https://www.quadriga-dk.de" class="external-link" target="_blank">QUADRIGA</a> OERs, die mit <a href="https://jupyterbook.org" class="external-link" target="_blank">Jupyter Book</a> geschrieben werden.
-
-Nutzen Sie die Inhalt der <a href="https://github.com/quadriga-dk/QUADRIGA-OER-Manual" target="_blank">Anleitung</a> um mehr über QUADRIGA-OERs und die Nutzung der Vorlage zu lernen.
-
-
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/d49501b5-2843-4b5d-9883-fc1ce965a399" />
+Eine DOI für die OER wird bei der Veröffentlichung über Zenodo vergeben.

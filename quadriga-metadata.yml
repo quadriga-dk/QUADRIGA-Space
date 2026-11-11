@@ -1,0 +1,139 @@
+# yaml-language-server: $schema=https://quadriga-dk.github.io/quadriga-schema/v2.0.0/schema.json
+title: 'QUADRIGA Space: Infrastruktur, Betrieb und Verstetigung'
+authorLIST:
+- familyName: Islam
+  givenName: Lamia
+  orcid: https://orcid.org/0009-0001-1879-9880
+  affiliation: Universität Potsdam
+  creditLIST:
+  - Software
+keywordLIST:
+- QUADRIGA Space
+- Infrastruktur
+- JupyterHub
+- Open Educational Resources
+- Betrieb
+description: 'Dieses Buch dokumentiert die technische Infrastruktur des QUADRIGA Space:
+  Architektur und Zusammenspiel der Komponenten, Administration und Betrieb sowie
+  Fragen der Verstetigung. Es richtet sich an Betreiber:innen und Administrator:innen
+  der QUADRIGA-Infrastruktur.'
+tableOfContents: '- Überblick
+
+  - Architektur
+
+  - Komponenten
+
+  - Administration
+
+  - Betrieb und Ressourcen
+
+  - Verstetigung'
+disciplineLIST:
+- übergreifend
+researchObjectTypeLIST:
+- übergreifend
+targetGroupLIST:
+- Forschende (PostDoc)
+- Forschende (Projektleitung)
+- Promovierende
+- Hochschullehrende
+timeRequired: PT2H
+language: de
+contributorLIST:
+- familyName: Schnaitter
+  givenName: Hannes
+  orcid: https://orcid.org/0000-0002-1602-6032
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft
+- familyName: Samoilova
+  givenName: Evgenia
+  orcid: https://orcid.org/0000-0003-3858-901X
+  affiliation: Universität Potsdam
+identifier: https://doi.org/10.5281/zenodo.TODOTODO
+identifierGit: https://github.com/quadriga-dk/QUADRIGA-Space
+identifierOER: https://quadriga-dk.github.io/QUADRIGA-Space/
+usedToolLIST:
+- name: Jupyter Book
+  url: https://jupyterbook.org
+chapterLIST:
+- title: Überblick
+  description: Zweck, Zielgruppen, Abgrenzung zu den Manuals.
+  url: https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/01-ueberblick.html
+  timeRequired: PT15M
+  learningGoal: Sie können Zweck und Zielgruppen des QUADRIGA Space benennen und ihn
+    von den Manuals abgrenzen.
+  learningObjectiveLIST:
+  - description: Zweck und Zielgruppen des QUADRIGA Space benennen und von den Manuals
+      abgrenzen.
+    competency: nicht anwendbar
+    dataFlow: nicht anwendbar
+    bloomsCategory: 2 Verstehen
+- title: Architektur
+  description: Komponenten und ihr Zusammenspiel, Schnittstellen zum Navigator, Datenflüsse.
+  url: https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/02-architektur.html
+  timeRequired: PT15M
+  learningGoal: Sie können die Architektur und das Zusammenspiel der Komponenten des
+    QUADRIGA Space beschreiben.
+  learningObjectiveLIST:
+  - description: Architektur und Zusammenspiel der Komponenten beschreiben.
+    competency: nicht anwendbar
+    dataFlow: nicht anwendbar
+    bloomsCategory: 2 Verstehen
+- title: Komponenten
+  description: 'GitHub, JupyterHub, Zenodo, OER-Repositorien: Funktion, Konfiguration,
+    Abhängigkeiten.'
+  url: https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/03-komponenten.html
+  timeRequired: PT15M
+  learningGoal: Sie können die eingesetzten Komponenten und ihre Konfiguration einordnen.
+  learningObjectiveLIST:
+  - description: Eingesetzte Komponenten und ihre Konfiguration einordnen.
+    competency: nicht anwendbar
+    dataFlow: nicht anwendbar
+    bloomsCategory: 2 Verstehen
+- title: Administration
+  description: Zugänge und Rechte, Zuständigkeiten, Abläufe (z. B. neue Fallstudie
+    veröffentlichen, Kurs auf dem JupyterHub einrichten).
+  url: https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/04-administration.html
+  timeRequired: PT15M
+  learningGoal: Sie können typische Administrationsabläufe im QUADRIGA Space durchführen.
+  learningObjectiveLIST:
+  - description: Typische Administrationsabläufe durchführen.
+    competency: nicht anwendbar
+    dataFlow: nicht anwendbar
+    bloomsCategory: 3 Anwenden
+- title: Betrieb und Ressourcen
+  description: Ressourcenbedarf, Kosten, Wartung, Monitoring, Vorgehen bei Störungen.
+  url: https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/05-betrieb-und-ressourcen.html
+  timeRequired: PT15M
+  learningGoal: Sie können Ressourcenbedarf und Betriebsaufgaben des QUADRIGA Space
+    einschätzen.
+  learningObjectiveLIST:
+  - description: Ressourcenbedarf und Betriebsaufgaben einschätzen.
+    competency: nicht anwendbar
+    dataFlow: nicht anwendbar
+    bloomsCategory: 4 Analysieren
+- title: Verstetigung
+  description: Langfristiger Betrieb (Fraunhofer FOKUS, Uni Potsdam, NFDI), Übergabe.
+  url: https://quadriga-dk.github.io/QUADRIGA-Space/kapitel/06-verstetigung.html
+  timeRequired: PT15M
+  learningGoal: Sie können Optionen für den langfristigen Betrieb und die Übergabe
+    des QUADRIGA Space bewerten.
+  learningObjectiveLIST:
+  - description: Optionen für langfristigen Betrieb und Übergabe bewerten.
+    competency: nicht anwendbar
+    dataFlow: nicht anwendbar
+    bloomsCategory: 5 Bewerten
+dateIssued: '2026-11-11'
+dateModified: '2026-11-11'
+version: 0.1.0
+contextOfCreation: 'Die vorliegenden Open Educational Resources wurden durch das Datenkompetenzzentrum
+  QUADRIGA erstellt.
+
+
+  Förderkennzeichen: 16DKZ2034'
+qualityAssurance:
+  date: '2026-11-11'
+  description: https://doi.org/10.5281/zenodo.18953896
+learningResourceType: Jupyter Book
+schemaVersion: 2.0.0
+license: https://creativecommons.org/licenses/by-sa/4.0/
+licenseCode: https://opensource.org/licenses/AGPL-3.0
