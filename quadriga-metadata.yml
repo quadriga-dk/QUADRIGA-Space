@@ -3,6 +3,7 @@ title: 'QUADRIGA Space: Infrastruktur, Betrieb und Verstetigung'
 authorLIST:
 - familyName: Islam
   givenName: Lamia
+  orcid: https://orcid.org/0009-0001-1879-9880
   affiliation: Universität Potsdam
   creditLIST:
   - Software
@@ -38,6 +39,15 @@ targetGroupLIST:
 - Hochschullehrende
 timeRequired: PT2H
 language: de
+contributorLIST:
+- familyName: Schnaitter
+  givenName: Hannes
+  orcid: https://orcid.org/0000-0002-1602-6032
+  affiliation: Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft
+- familyName: Samoilova
+  givenName: Evgenia
+  orcid: https://orcid.org/0000-0003-3858-901X
+  affiliation: Universität Potsdam
 identifier: https://doi.org/10.5281/zenodo.TODOTODO
 identifierGit: https://github.com/quadriga-dk/QUADRIGA-Space
 identifierOER: https://quadriga-dk.github.io/QUADRIGA-Space/

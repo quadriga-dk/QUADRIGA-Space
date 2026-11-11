@@ -11,6 +11,7 @@ message: Please cite this software using the metadata from `preferred-citation` 
 authors: &id001
 - given-names: Lamia
   family-names: Islam
+  orcid: https://orcid.org/0009-0001-1879-9880
   affiliation: Universität Potsdam
 repository-code: https://github.com/quadriga-dk/QUADRIGA-Space
 url: https://quadriga-dk.github.io/QUADRIGA-Space/

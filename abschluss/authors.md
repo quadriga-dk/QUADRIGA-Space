@@ -2,6 +2,24 @@
 
 ## Autor:innen der Inhalte
 
+### Lamia Islam <a href="https://orcid.org/0009-0001-1879-9880" target="_blank"><img src="../assets/ORCID-iD_icon_24x24.png" alt="ORCID"></a>
+<table style="margin-left: 0">
+<tr>
+<td><b>Rolle in QUADRIGA:</b></td>
+<td>Technische Unterstützung (WHK)</td>
+</tr>
+<tr>
+<td><b>Einrichtung:</b></td>
+<td>Universität Potsdam</td>
+</tr>
+<tr>
+<td><b>GitHub:</b></td>
+<td><a href="https://github.com/lam1aa" class="external-link" target="_blank">lam1aa</a></td>
+</tr>
+</table>
+
+## sonstige beteiligte Personen
+
 ### Hannes Schnaitter <span style="font-size:8pt">(er/ihm/sein)</span> <a href="https://orcid.org/0000-0002-1602-6032" target="_blank"><img src="../assets/ORCID-iD_icon_24x24.png" alt="ORCID"></a>
 
 <table style="margin-left: 0">
@@ -43,36 +61,3 @@
 </tr>
 </table>
 
-### Lamia Islam <a href="https://orcid.org/0009-0001-1879-9880" target="_blank"><img src="../assets/ORCID-iD_icon_24x24.png" alt="ORCID"></a>
-<table style="margin-left: 0">
-<tr>
-<td><b>Rolle in QUADRIGA:</b></td>
-<td>Technische Unterstützung (WHK)</td>
-</tr>
-<tr>
-<td><b>Einrichtung:</b></td>
-<td>Universität Potsdam</td>
-</tr>
-<tr>
-<td><b>GitHub:</b></td>
-<td><a href="https://github.com/lam1aa" class="external-link" target="_blank">lam1aa</a></td>
-</tr>
-</table>
-
-## sonstige beteiligte Personen
-
-### Yue Zhang
-<table style="margin-left: 0">
-<tr>
-<td><b>Rolle in QUADRIGA:</b></td>
-<td>Technische Unterstützung (insb. R, Docker, Binder, GitHub Actions)</td>
-</tr>
-<tr>
-<td><b>Einrichtung:</b></td>
-<td>Fraunhofer FOKUS</td>
-</tr>
-<tr>
-<td><b>GitHub:</b></td>
-<td><a href="https://github.com/SchenbergZY" class="external-link" target="_blank">SchenbergZY</a></td>
-</tr>
-</table>

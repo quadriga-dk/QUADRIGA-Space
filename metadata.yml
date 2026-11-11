@@ -13,6 +13,26 @@ creator:
 - givenName: Lamia
   familyName: Islam
   name: Lamia Islam
+  id: https://orcid.org/0009-0001-1879-9880
+  type: Person
+  affiliation:
+    name: Universität Potsdam
+    id: https://ror.org/03bnmw459
+    type: Organization
+contributor:
+- givenName: Hannes
+  familyName: Schnaitter
+  name: Hannes Schnaitter
+  id: https://orcid.org/0000-0002-1602-6032
+  type: Person
+  affiliation:
+    name: Humboldt-Universität zu Berlin
+    id: https://ror.org/01hcx6992
+    type: Organization
+- givenName: Evgenia
+  familyName: Samoilova
+  name: Evgenia Samoilova
+  id: https://orcid.org/0000-0003-3858-901X
   type: Person
   affiliation:
     name: Universität Potsdam
